@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FFBE8D1E-820A-4646-A6D6-91DF9E92DDAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tracking time</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFA07A7F3061969BA1867D9FE688ED3BE5C85C10</key>
+		<string>https://github.com/leuleuleu84/tracking-time.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tracking time.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFA07A7F3061969BA1867D9FE688ED3BE5C85C10</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/leuleuleu84/tracking-time.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFA07A7F3061969BA1867D9FE688ED3BE5C85C10</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFA07A7F3061969BA1867D9FE688ED3BE5C85C10</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tracking%20time</string>
+		</dict>
+	</array>
+</dict>
+</plist>

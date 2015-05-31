@@ -21,21 +21,21 @@ class Subject: UIView {
         "Time for Home",
         "Time for Fitness",
         "Time for Sleep"]
-    
-    var colorSubject : [UIColor]{
-        var colorSubject = [UIColor]()
-        colorSubject.append(UIColor.blackColor())
-        colorSubject.append(UIColor.redColor())
-        colorSubject.append(UIColor.blueColor())
-        colorSubject.append(UIColor.orangeColor())
-        colorSubject.append(UIColor.greenColor())
-        colorSubject.append(UIColor.cyanColor())
-        return colorSubject
-    }
+//    
+//    var colorSubject : [UIColor]{
+//        var colorSubject = [UIColor]()
+//        colorSubject.append(UIColor.blackColor())
+//        colorSubject.append(UIColor.redColor())
+//        colorSubject.append(UIColor.blueColor())
+//        colorSubject.append(UIColor.orangeColor())
+//        colorSubject.append(UIColor.greenColor())
+//        colorSubject.append(UIColor.cyanColor())
+//        return colorSubject
+//    }
 
     init(frame: CGRect, index : Int) {
         super.init(frame: frame)
-        super.backgroundColor = colorSubject[index]
+        super.backgroundColor = UIColor.blackColor()
         
         
         lbTime = UILabel(frame: CGRect(x: 0, y: 0, width: super.bounds.width, height: 50))
